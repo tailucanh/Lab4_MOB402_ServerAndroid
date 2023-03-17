@@ -1,11 +1,11 @@
 # Lab4_MOB402_ServerAndroid
 
->>>> Bài 2 <<<<
+>>>> # Bài 2 >>>>
 
 ![image](https://user-images.githubusercontent.com/93418649/225967597-38b6023f-5264-40d5-94b4-5a8841b23b06.png)
 
 
->>>> Bài 3 - Hoàn thiện bài calculator <<<<<<
+>>>> # Bài 3 - Hoàn thiện bài calculator >>>>
 
 - Giao diện vừa chạy: 
 
